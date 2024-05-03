@@ -1,1 +1,2 @@
-# React Real Estate UI Design
+# HealthMate
+Final Project for CIS 1962 Javascript Class

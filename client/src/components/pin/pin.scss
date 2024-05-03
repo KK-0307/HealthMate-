@@ -1,0 +1,19 @@
+.popupContainer{
+  display: flex;
+  gap: 20px;
+
+  img{
+    width: 64px;
+    height: 48px;
+    object-fit: cover;
+    border-radius: 5px;
+  }
+
+  .textContainer{
+    display: flex;
+    font-family: "Pacifico", cursive;
+    color: #df3b82;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+}
